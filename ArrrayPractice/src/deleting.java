@@ -14,6 +14,7 @@ public class deleting {
             a[i]=a[i+1];
         }
         for (int x:a){
+            //testing
             System.out.print(x+" ");
         }
     }
