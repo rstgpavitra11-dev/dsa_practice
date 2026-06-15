@@ -20,6 +20,7 @@ public class creating {
         }
         System.out.println(ll.contains(13));
         // reverse iterator
+        ll.removeLastOccurrence(27);
         Iterator<Integer> op = ll.descendingIterator();
         while(op.hasNext()){
             System.out.println(op.next());
