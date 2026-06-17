@@ -24,7 +24,6 @@ public class intersectionques {
         forty4.setNext(twenty2);
         twenty2.setNext(thirty3);
         thirty3.setNext(null);
-        main(ListN fp=head);
 
     }
     }
