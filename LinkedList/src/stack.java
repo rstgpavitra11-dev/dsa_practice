@@ -11,7 +11,7 @@ public class stack {
         System.out.println(stack.peek());
         System.out.println(stack.pop());
         System.out.println(stack.search(34));
-        System.out.println(stack.);
+        System.out.println(stack.get(0));
 
     }
 }
